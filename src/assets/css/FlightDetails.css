@@ -1,0 +1,10 @@
+.flight-details {
+  float: left;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 95vw;
+  height: 15vh;
+  background-color: rgb(197, 197, 187);
+}

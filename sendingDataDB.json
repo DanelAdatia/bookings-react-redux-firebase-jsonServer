@@ -1,0 +1,90 @@
+{
+  "ReceivingData": [
+    {
+      "id": "f65a77b9-dc1b-4f3f-8633-802585c89065",
+      "name": "et consequatur quo",
+      "country": "Togo",
+      "city": "Lake Faustomouth",
+      "price": 569,
+      "images": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWx8ZW58MHx8MHx8&w=1000&q=80",
+      "date_start": "2022-03-23T23:45:58.639Z",
+      "date_end": "2022-10-25T07:34:08.838Z",
+      "stars": 3,
+      "rating": 5.303617409490169,
+      "description": "Perferendis eaque voluptatem. Qui incidunt minima. Omnis minus dolor expedita. Autem ab reprehenderit molestiae soluta molestiae eveniet nostrum iure."
+    }
+  ],
+  "ReceivingFlightData": [
+    {
+      "0": {
+        "id": "1",
+        "Way": "One-Way",
+        "Class": "Economy",
+        "From": "Hong Kong",
+        "To": "Tokyo",
+        "value": [
+          "Tue May 10 2022 00:00:00 GMT+0530 (India Standard Time)",
+          "Wed May 11 2022 00:00:00 GMT+0530 (India Standard Time)"
+        ],
+        "price": "US $6,103"
+      },
+      "id": 1
+    },
+    {
+      "0": {
+        "id": "2",
+        "Way": "One-Way",
+        "Class": "Economy",
+        "From": "Tokyo",
+        "To": "Hong Kong",
+        "value": [
+          "Mon Apr 04 2022 00:00:00 GMT+0530 (India Standard Time)",
+          "Tue Apr 05 2022 00:00:00 GMT+0530 (India Standard Time)"
+        ],
+        "price": "US$6,126"
+      },
+      "id": 2
+    }
+  ],
+  "ReceivingTrainDetails": [
+    {
+      "0": {
+        "id": 1,
+        "From": "Hong Kong",
+        "To": "Tokyo",
+        "value": [
+          "Mon Apr 04 2022 00:00:00 GMT+0530 (India Standard Time)",
+          "Thu Apr 07 2022 00:00:00 GMT+0530 (India Standard Time)"
+        ],
+        "price": "US$1000"
+      },
+      "id": 1
+    },
+    {
+      "0": {
+        "id": 2,
+        "From": "Tokyo",
+        "To": "Hong Kong",
+        "value": [
+          "Mon Apr 05 2022 00:00:00 GMT+0530 (India Standard Time)",
+          "Thu Apr 08 2022 00:00:00 GMT+0530 (India Standard Time)"
+        ],
+        "price": "US$2000"
+      },
+      "id": 2
+    },
+    {
+      "0": {
+        "id": 5,
+        "From": "Tokyo",
+        "To": "London",
+        "value": [
+          "Mon Apr 07 2022 00:00:00 GMT+0530 (India Standard Time)",
+          "Thu Apr 09 2022 00:00:00 GMT+0530 (India Standard Time)"
+        ],
+        "price": "US$8000"
+      },
+      "id": 3
+    }
+  ]
+}
